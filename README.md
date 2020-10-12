@@ -9,9 +9,6 @@
 <script src="https://kit.fontawesome.com/a076d05399.js"></script>
 <style>
 body {
-  background: url("https://scontent.fbkk12-1.fna.fbcdn.net/v/t1.0-9/120702975_965767257258756_8431111857745245457_n.jpg?_nc_cat=101&_nc_sid=730e14&_nc_eui2=AeHzKa17OVHsjlsr-yWTA11VvOuteIknnUa86614iSedRnftoKk_mBjBt7uVOb4YKjMSMq9SmsHU8ghJ8XRQH3mK&_nc_ohc=5gECMokDmmYAX_UrMVk&_nc_ht=scontent.fbkk12-1.fna&oh=146d128cf16a040065265b6af2b9e384&oe=5F9FAB56");
-  background-size: 1100px 750px;
-  background-repeat: no-repeat;
 }
 </style>
 
